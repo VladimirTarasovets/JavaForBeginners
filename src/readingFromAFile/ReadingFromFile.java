@@ -1,4 +1,4 @@
-package ReadingFromAFile;
+package readingFromAFile;
 
 import java.io.File;
 import java.io.FileNotFoundException;
